@@ -1,3 +1,5 @@
 package template
 
-object Main {}
+object Main extends App {
+  println("Hello Subutai!")
+}
